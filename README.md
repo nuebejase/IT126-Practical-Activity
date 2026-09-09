@@ -36,7 +36,6 @@ Chrome, Windows, or an Android device/emulator all work. On Android, the project
 | `lib/widgets/result_card.dart` | Successful result on screen |
 | `lib/models/registration_result.dart` | Submitted data without password |
 
-## How to explain this in class
 
 The 30-point code explanation is usually about *why* the widgets exist, not reciting every line.
 
